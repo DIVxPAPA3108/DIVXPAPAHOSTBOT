@@ -183,7 +183,7 @@ def keep_alive():
 # ================================
 TOKEN = os.environ.get(
     "BOT_TOKEN",
-    "8986606501:AAHKnXXJLFqh0byL5UdJXu2DlLhI4D_Jbx8"
+    "8629018745:AAEBM9_zCnCspEXQJ-G8oknIqRbu8-NLCW4"
 ).strip()
 
 if not TOKEN:
