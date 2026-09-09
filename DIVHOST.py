@@ -192,15 +192,12 @@ if not TOKEN:
 OWNER_ID = 8688188727
 ADMIN_ID = 8688188727
 YOUR_USERNAME = '@DlV03I'
-UPDATE_CHANNEL = 'https://t.me/welcomedarkhell'
-UPDATE_GROUP = 'https://t.me/high_table_dev'
+UPDATE_CHANNEL = 'https://t.me/DIVxHOST'
+UPDATE_GROUP = 'https://t.me/DIVxHOST'
 
-FORCE_SUB_CHANNELS = ["@welcomedarkhell", "@high_table_dev"]
-FORCE_SUB_CHANNEL_LINKS = [
-    "https://t.me/welcomedarkhell",
-    "https://t.me/high_table_dev"
-]
-FORCE_SUB_CHANNEL_NAMES = ["𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐃𝐀𝐑𝐊 𝐇𝐄𝐋𝐋", "𝐇𝐈𝐆𝐇 𝐓𝐀𝐁𝐋𝐄 𝐃𝐄𝐕"]
+FORCE_SUB_CHANNELS = ["@DIVxHOST"]
+FORCE_SUB_CHANNEL_LINKS = ["https://t.me/DIVxHOST"]
+FORCE_SUB_CHANNEL_NAMES = ["𝑫𝑰𝑽𝒙𝑯𝑶𝑺𝑻"]
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_BOTS_DIR = os.path.join(BASE_DIR, 'DIVXPAPA_uploads')
